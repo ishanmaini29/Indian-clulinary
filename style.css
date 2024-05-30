@@ -1,0 +1,82 @@
+header {
+
+    background-color: #f9a51a;
+
+    text-align: center
+}
+
+.logo {
+
+    font-size: 48px;
+  }
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #ebf5fb;
+    text-align: center;
+    padding: 10px;
+    text-decoration:none;
+    
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  footer {
+    background-color:green;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+  }
+
+  ul {
+    display: inline-block;
+  }
+
+  p {
+    display: inline-block;
+  }
+  .main {background-color: hsl(53, 67%, 95%);
+    text-align: center;
+    padding: 10px;
+    text-decoration:none;
+    list-style: none;
+    margin: 0 10px;
+        
+ }
+
+ ol{ text-decoration:none;
+    list-style: none;
+    
+    list-style-type: none;}
+
+    a {
+        list-style-type: none;
+        text-decoration:none;
+        color:black ;
+
+      }
+img {
+    width: 50%;
+}
+
+
+.merchendice{
+    text-align: center;
+    display: flex;
+    display: block;
+    padding: 20px;
+    align-items: center;
+    
+}
+
